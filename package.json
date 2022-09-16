@@ -1,0 +1,14 @@
+{
+  "name": "window-function-sniffer",
+  "version": "1.0.0",
+  "description": "sniffing window function",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
